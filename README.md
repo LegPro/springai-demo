@@ -190,8 +190,4 @@ ENTRYPOINT ["java", "-jar", "/app.jar"]
 
 This project is licensed under the MIT License. See the `LICENSE` file for more details.
 
----
 
-### Notes:
-- Be sure to replace the placeholder `your-openai-api-key` with your actual OpenAI API key.
-- Adjust the repository URL in the `git clone` command with the actual URL of your GitHub repository.

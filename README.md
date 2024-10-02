@@ -1,7 +1,3 @@
-Here's a `README.md` file template with all the details for your Java project using Java 21, Spring Boot 3.2.10, Maven, and the OpenAI dependency:
-
----
-
 # AI Chat Spring Boot Application
 
 ## Overview

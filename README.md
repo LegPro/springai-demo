@@ -186,8 +186,3 @@ ENTRYPOINT ["java", "-jar", "/app.jar"]
    docker run -p 8080:8080 -e SPRING_AI_OPENAI_API_KEY=your-openai-api-key ai-chat-app
    ```
 
-## License
-
-This project is licensed under the MIT License. See the `LICENSE` file for more details.
-
-
